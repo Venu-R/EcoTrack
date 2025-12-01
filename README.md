@@ -1,1 +1,1 @@
-# Hackathon
+EcoTrack is a web app that helps users understand their carbon footprint based on their location and lifestyle choices. By entering where they live and travel, the platform estimates their carbon emissions and shows how their daily activities impact the planet. Along with emission results, EcoTrack also provides practical tips and suggestions to switch to greener, low-carbon alternatives, making sustainability easier and achievable.
