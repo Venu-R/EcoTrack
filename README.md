@@ -1,6 +1,6 @@
-# 🌱 EcoTrack - Carbon Emission Tracker
+# EcoTrack - Carbon Emission Tracker
 
-## 📖 Overview
+## Overview
 
 EcoTrack is a web-based carbon emission tracking platform designed to help users understand and reduce their environmental impact. The application calculates CO₂ emissions generated from daily travel activities, provides detailed analytics, and offers personalized suggestions for adopting more sustainable transportation habits.
 
@@ -8,40 +8,40 @@ By converting travel data into meaningful insights, EcoTrack enables users to ma
 
 ---
 
-## ✨ Features
+## Features
 
-### 🚗 Travel Tracking
+### Travel Tracking
 
 * Record daily travel activities
 * Support for multiple transportation modes
 * Track distance traveled per trip
 
-### 🌍 Carbon Footprint Calculation
+### Carbon Footprint Calculation
 
 * Automatic CO₂ emission calculation
 * Uses standard emission factors for different transport modes
 * Accurate trip-wise emission reporting
 
-### 📊 Analytics Dashboard
+### Analytics Dashboard
 
 * Visualize emission trends over time
 * View historical travel records
 * Monitor personal carbon footprint growth or reduction
 
-### 💡 Personalized Recommendations
+### Personalized Recommendations
 
 * Suggestions to reduce emissions
 * Sustainable travel alternatives
 * Environment-friendly habit recommendations
 
-### 🗄 Data Management
+### Data Management
 
 * Store travel records securely
 * Retrieve and analyze historical data efficiently
 
 ---
 
-## 🏗 System Architecture
+## System Architecture
 
 ```text
 Frontend (HTML/CSS/JavaScript)
@@ -57,7 +57,7 @@ The frontend collects user travel information, the FastAPI backend processes and
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -76,7 +76,7 @@ The frontend collects user travel information, the FastAPI backend processes and
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. User enters travel details.
 2. Travel distance and transportation mode are processed.
@@ -88,7 +88,7 @@ The frontend collects user travel information, the FastAPI backend processes and
 
 ---
 
-## 📈 Carbon Emission Calculation
+## Carbon Emission Calculation
 
 The platform estimates emissions using:
 
@@ -103,7 +103,7 @@ Where:
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Promote environmental awareness
 * Encourage sustainable transportation choices
@@ -112,7 +112,7 @@ Where:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone Repository
 
@@ -172,7 +172,7 @@ http://localhost:8000
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 * User authentication and profiles
 * Carbon footprint comparison system
@@ -184,7 +184,7 @@ http://localhost:8000
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -194,5 +194,5 @@ Contributions are welcome.
 4. Open a pull request
 
 ---
-## 👨‍💻 Author
+## Author
 **Venu R**
